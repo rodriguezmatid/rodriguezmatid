@@ -1,3 +1,6 @@
+
+<img align="right" src="img/avatar.png">
+
 # Hi! Welcome to my profile 👋 Matias here!
 
 ✨ I'm an actuary & MSc in Management + Analytics from Argentina, the land of football and mate!<br>
