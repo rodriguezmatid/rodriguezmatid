@@ -1,7 +1,7 @@
 # Hi! Welcome to my profile 👋 Matias here!
 
-✨ I'm an actuary & MSc in Management + Analytics from Argentina, the land of football and mate!
-🚀 I consider myself a problem solver, proactive person and a restless spirit with vast experience in data, product and pricing.
+✨ I'm an actuary & MSc in Management + Analytics from Argentina, the land of football and mate!<br>
+🚀 I consider myself a problem solver, proactive person and a restless spirit with vast experience in data, product and pricing.<br>
 💻 I code in Python and I'm a passionate of data, that's the reason why I also use a lot of SQL! 
 <br>
 
